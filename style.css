@@ -68,20 +68,18 @@
     display: block;
 }
 
-
 ::-webkit-input-placeholder { 
     color: #538bc4; 
     font-size: 21px;
     padding: 10px;
 }
 
-
 .blue-rec {
     width: 30px;
     height: 30px;
     display: block;
     position: absolute;
-    bottom: 7px;
+    bottom: 5px;
     right: 120px;
 }
 
